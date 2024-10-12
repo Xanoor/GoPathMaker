@@ -25,9 +25,9 @@ Before using this program, ensure the following are installed on your machine:
 
 1. **Clone this repository** or download the files into a local directory:
 
-   \```
+   ```
    git clone https://github.com/Xanoor/GoPathMaker
-   \```
+   ```
 
 
 2. **Edit the variables in the Go script**:
